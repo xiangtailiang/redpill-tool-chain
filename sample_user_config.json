@@ -5,8 +5,8 @@
         "sn": "1831PDN378705",
         "mac1": "0011328B920B",
         "mac2": "0011328B920C",
-        "DiskIdxMap": "0002",
-        "SataPortMap": "22"
+        "DiskIdxMap": "00",
+        "SataPortMap": "6"
     },
     "synoinfo": {
         "maxlanport": "4"
