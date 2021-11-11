@@ -5,12 +5,10 @@
         "sn": "1831PDN378705",
         "mac1": "0011328B920B",
         "mac2": "0011328B920C",
-        "DiskIdxMap": "0001",
-        "SataPortMap": "13"
+        "DiskIdxMap": "0002",
+        "SataPortMap": "22"
     },
     "synoinfo": {
-        "DiskIdxMap": "0001",
-        "SataPortMap": "13",
         "maxlanport": "4"
     },
     "ramdisk_copy": {},
