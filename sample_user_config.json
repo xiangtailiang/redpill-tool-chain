@@ -7,8 +7,8 @@
         "mac2": "0011328B920C"
     },
     "synoinfo": {
-        "DiskIdxMap": "00",
-        "SataPortMap": "4",
+        "DiskIdxMap": "0001",
+        "SataPortMap": "13",
         "maxlanport": "4"
     },
     "ramdisk_copy": {},
