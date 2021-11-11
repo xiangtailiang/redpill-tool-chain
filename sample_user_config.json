@@ -4,7 +4,9 @@
         "vid": "0x0781",
         "sn": "1831PDN378705",
         "mac1": "0011328B920B",
-        "mac2": "0011328B920C"
+        "mac2": "0011328B920C",
+        "DiskIdxMap": "0001",
+        "SataPortMap": "13",
     },
     "synoinfo": {
         "DiskIdxMap": "0001",
