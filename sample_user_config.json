@@ -6,7 +6,8 @@
         "mac1": "0011328B920B",
         "mac2": "0011328B920C",
         "DiskIdxMap": "00",
-        "SataPortMap": "6"
+        "SataPortMap": "2",
+        "SasIdxMap": "0"
     },
     "synoinfo": {
         "maxlanport": "4"
