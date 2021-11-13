@@ -8,7 +8,9 @@
         "mac3": "00113292EC69",
         "mac4": "00113292EC6A"
     },
-    "synoinfo": {},
+    "synoinfo": {
+        "maxlanport": "4"
+     },
     "ramdisk_copy": {},
     "extensions": []
 }
