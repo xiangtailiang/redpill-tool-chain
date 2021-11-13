@@ -1,17 +1,12 @@
 {
     "extra_cmdline": {
-        "pid": "0x556b",
-        "vid": "0x0781",
+        "pid": "0x0001",
+        "vid": "0x46f4",
         "sn": "1831PDN378705",
         "mac1": "0011328B920B",
-        "mac2": "0011328B920C",
-        "DiskIdxMap": "00",
-        "SataPortMap": "2",
-        "SasIdxMap": "0"
+        "mac2": "0011328B920C"
     },
-    "synoinfo": {
-        "maxlanport": "4"
-    },
+    "synoinfo": {},
     "ramdisk_copy": {},
     "extensions": []
 }
